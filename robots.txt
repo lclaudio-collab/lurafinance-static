@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap ativo
+Sitemap: https://www.lurafinance.com.br/sitemap.xml
